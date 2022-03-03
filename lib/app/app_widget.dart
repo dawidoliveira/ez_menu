@@ -8,7 +8,6 @@ class AppWidget extends StatelessWidget {
       title: 'EZ Menu',
       routeInformationParser: Modular.routeInformationParser,
       routerDelegate: Modular.routerDelegate,
-      theme: ThemeData(primarySwatch: Colors.blue),
     );
   }
 }
