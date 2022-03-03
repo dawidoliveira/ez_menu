@@ -10,6 +10,9 @@
 
 ## Descrição
 EZ Menu é um app para restaurantes, onde o cliente consegue utilizar o app como cardápio.
+- Equipe:
+- Dáwid Silva
+- Vinicyus Silva
 
 ## ✅ Plugins do Vscode
 
